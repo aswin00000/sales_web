@@ -1,7 +1,7 @@
 # to clone 
 git clone https://github.com/aswin00000/sales_web
 
-# to set up all databases
+# to set databases
 
 python manage.py migrate
 
